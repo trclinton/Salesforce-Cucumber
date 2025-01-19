@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjozNDQ=" />
+          <chats>
+            <list>
+              <chat>
+                <accountId value="VXNlcjozNDQ=" />
+                <internalId value="1c06fae4-71d1-4187-b18b-4ad19d6aa983" />
+                <llm>
+                  <llm>
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3cb8abf2-bcb3-4e28-88ac-3bb5d4f31752" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="7ce4ada5-09c2-460c-9990-ea524eff38ac" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="5594991a-3522-4da7-89cc-9c26b9f1989e" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3bbdc58d-2037-469b-898a-cc1eaac6a798" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="ae363794-1faa-4233-b96d-b962ac244872" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="b838861f-694b-4327-b8ce-b2981707c0c3" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="777e672b-eabf-4cf0-8051-1b328851f2a0" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="93b2cb71-a222-4670-ab7f-b314805dc1a0" />
+                <llm>
+                  <llm>
+                    <model value="claude-3.5-sonnet" />
+                    <provider value="anthropic" />
+                    <tags>
+                      <list>
+                        <option value="accuracy" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="claude-3.5-sonnet" />
+              <provider value="anthropic" />
+              <tags>
+                <list>
+                  <option value="accuracy" />
+                  <option value="free" />
+                </list>
+              </tags>
+              <title value="Claude 3.5 Sonnet" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjozNDQ=" />
+          <internalId value="1c06fae4-71d1-4187-b18b-4ad19d6aa983" />
+          <llm>
+            <llm>
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </llm>
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
